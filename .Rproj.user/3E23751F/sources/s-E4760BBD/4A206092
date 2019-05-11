@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557591307022.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2424307498",
+    "id" : "4A206092",
+    "lastKnownWriteTime" : 1557602469,
+    "last_content_update" : 1557602469382,
+    "path" : "~/SAMarkdownproj/man/getMax.Rd",
+    "project_path" : "man/getMax.Rd",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

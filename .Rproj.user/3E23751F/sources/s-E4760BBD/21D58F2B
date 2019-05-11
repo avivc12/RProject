@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557591287435.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "21D58F2B",
+    "lastKnownWriteTime" : 1557591170,
+    "last_content_update" : 1557591170,
+    "path" : "~/SAMarkdownproj/R/summaryFunc.R",
+    "project_path" : "R/summaryFunc.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
